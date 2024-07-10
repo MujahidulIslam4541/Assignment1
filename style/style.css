@@ -256,3 +256,30 @@
     color:#000;
     font-weight: bold;
 }
+
+
+/* footer section start */
+.footer-section{
+    width: 1003px;
+    height: 50px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+}
+
+.footer-section-content{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    align-items: center;
+}
+.footer-section-content img{
+        margin-right: 10px;
+        width: 30px;
+        height: 30px;
+}
+.footer-section-content p{
+    font-weight: 700;
+    color: #0D1321;
+}
