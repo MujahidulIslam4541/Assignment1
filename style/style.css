@@ -24,7 +24,7 @@
 
 /* banner section start */
 .banner-section{
-    max-width: 1200px;
+    max-width: 1003px ; 
     height: 480px;
     background-image: url(../assets/Hero-bg.png);
     background-position:center;
